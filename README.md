@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubhanjali</h1>
+<h1 align="center">Hi 👋, I'm Shubhanjali IIIT Allahabad </h1>
 <h3 align="center">I'm currently persuing B.tech. 5th Semmester from Indian Institute of Information Technology Allahabad department of Information Technology</h3>
 
 
